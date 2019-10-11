@@ -1,5 +1,5 @@
-rss feed is an idea but i don't like it
-https://www.reddit.com/r/woodworking/comments/30ulmv/using_rss_feeds_to_search_for_things_on_craigslist/
+A simple application that scrapes data from craigslist based on criteria
 
-
-Maybe try web scraping? https://ksah.in/introduction-to-web-scraping-with-java/
+Inspiration drawn from:
+https://ksah.in/introduction-to-web-scraping-with-java/
+https://delaware.craigslist.org/
